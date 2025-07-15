@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+}
+
+header img {
+    height: 50px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+}
+
+nav p {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+button {
+    background-color: #4CAF50;
+    border: 1px solid #4CAF50;
+}
+
